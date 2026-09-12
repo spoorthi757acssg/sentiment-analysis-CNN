@@ -1,0 +1,6 @@
+TensorFlow
+NumPy
+matplotlib
+scikit-learn
+Jupyter notebook
+
